@@ -1,0 +1,9 @@
+{
+  "name": "Afterglow",
+  "short_name": "Afterglow",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07101f",
+  "theme_color": "#091326",
+  "description": "Afterglow Interactive & Technology Limited builds consumer-facing mobile applications and online software products."
+}
