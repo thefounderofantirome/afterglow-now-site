@@ -4,7 +4,7 @@ Static public website for `https://afterglow.now`.
 
 ## Pages
 
-- `index.html` - company and Chitchat product homepage
+- `index.html` - software portfolio, company registration details, and contact information
 - `support.html` - support contact page
 - `privacy.html` - privacy policy
 - `terms.html` - terms of use
@@ -14,16 +14,5 @@ Static public website for `https://afterglow.now`.
 
 ## Deploy
 
-Any static host works:
-
-- Vercel static project
-- Cloudflare Pages
-- Netlify
-- GitHub Pages
-- plain web server
-
-Serve the folder root as the website root.
-
-## Domain status
-
-`afterglow.now` must point to the selected hosting provider before the site is reachable publicly.
+Run `python -B -m unittest discover -s _tests -v` to check the public pages.
+GitHub Pages publishes the repository root on `main` to https://afterglow.now/.
