@@ -7,14 +7,9 @@
   "theme_color": "#121826",
   "icons": [
     {
-      "src": "assets/afterglow-icon.svg",
+      "src": "assets/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml"
-    },
-    {
-      "src": "assets/afterglow-icon.png",
-      "sizes": "512x512",
-      "type": "image/png"
     }
   ]
 }
